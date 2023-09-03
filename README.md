@@ -1,16 +1,26 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Welcome%20to%20Jiwon's%20GitHub&fontSize=50)
 
-<!--
-**supportlaver/supportlaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​
+### 👋 스프링 프레임워크를 활용한 백엔드 개발에 관심있는 김지원 입니다. 
 
-Here are some ideas to get you started:
+## Contact
+## 블로그 + 이메일 + ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 현재 공부하고 있는 Skills
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA(Spring Data JPA + Querydsl)-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
+
+
+## 앞으로 공부하고 싶은 Skills
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>  <img src="https://img.shields.io/badge/Mongo DB-7A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+
+
+
+
+
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=supportlaver&show_icons=true&theme=radical)
+
+## 
+
+
