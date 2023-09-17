@@ -11,7 +11,10 @@
 
 ## 현재 공부하고 있는 Skills </br></br> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA(Spring Data JPA + Querydsl)-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
 
-## 앞으로 공부하고 싶은 Skills </br></br><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>  <img src="https://img.shields.io/badge/Mongo DB-7A248?style=flat-square&logo=mongodb&logoColor=white"/>   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+## 앞으로 공부하고 싶은 Skills </br></br><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>  <img src="https://img.shields.io/badge/Mongo DB-7A248?style=flat-square&logo=mongodb&logoColor=white"/>   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> 
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supportlaver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
