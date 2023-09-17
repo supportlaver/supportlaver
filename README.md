@@ -2,7 +2,7 @@
 
 ​<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+SupportKim+GitHub!😎)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SupportKim+GitHub!😎)
 
 ## 스프링 프레임워크를 활용한 백엔드 개발자 김지원 입니다 👋
 
