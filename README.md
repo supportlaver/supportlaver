@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SupportKim+GitHub!😎)
 
-## 스프링 프레임워크를 활용한 백엔드 개발자 김지원 입니다 👋
+## 스프링 프레임워크를 좋아하는 백엔드 개발자 김지원 입니다 👋
 
 ## Study Record<br/><a href="https://velog.io/@support-kim"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><a href="https://blog.naver.com/supportkim999"> 
 <!-- <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> -->
