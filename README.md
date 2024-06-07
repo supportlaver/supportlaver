@@ -6,7 +6,7 @@
 
 ## 스프링 프레임워크를 좋아하는 백엔드 개발자 김지원 입니다 👋
 
-## Study Record<br/><a href="https://velog.io/@support-kim"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><a href="https://blog.naver.com/supportkim999"> 
+<!--## Study Record<br/><a href="https://velog.io/@support-kim"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><a href="https://blog.naver.com/supportkim999"> -->
 <!-- <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> -->
 
 ## 현재 공부하고 있는 Skills </br></br> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA(Spring Data JPA + Querydsl)-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-squar&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth 2.0-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
